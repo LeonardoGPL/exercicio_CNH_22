@@ -1,5 +1,5 @@
 # exercicio_cnh_22
-Exercicio para identificar se o usuário pode tirar a Carteira Nacional de Habilitação.
+Exercicio para identificar se o usuário pode receber a Carteira Nacional de Habilitação.
 ------------------------------------------------------
 # ALGORITMO DO EXERCÍCIO
 
