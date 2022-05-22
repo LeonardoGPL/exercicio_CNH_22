@@ -5,11 +5,11 @@ Exercicio para identificar se o usuário pode estacionar em vaga especial.
 
 Inicio
 
-    1. **Se** aprovado no Exame Psicotecnico
-    2. **Se** aprovado no Exame de Legislacao
-    3. **Se** aprovado no Exame de Direcao
+    1. Se aprovado no Exame Psicotecnico
+    2. Se aprovado no Exame de Legislacao
+    3. Se aprovado no Exame de Direcao
     4. Aprovado para Solicitar a CNH
-    5. **Fim Enquanto** 
+    5. Fim Enquanto 
     6. Se nao Ivalida a Solicitacao para retirar a CNH
 
 Fim
